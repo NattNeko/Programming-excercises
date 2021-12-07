@@ -21,7 +21,7 @@
 ## Usage
 "Is this leap year?" Checks if given year is leap or not.
 "Is this triangle exists?" Checks if our triangle is proper.
-"square roots" - as the name suggests it calculates square roots and checks how many of it is in equation.
+"square roots" - as the name suggests it calculates square roots and checks how many of it is in an equation.
 
 ## Project Status
 Project is: complete
